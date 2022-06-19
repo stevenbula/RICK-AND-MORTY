@@ -1,0 +1,79 @@
+body {
+    background-color: #062226;
+    border: none;
+}
+.Titulo, .colorv{
+    text-align: center;
+    font-family: cursive;
+    color: rgb(72, 255, 0);
+}
+#clr{
+    color:whitesmoke;
+}
+
+ .Busqueda, #Title2{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(72, 255, 0);
+    font-family: cursive;
+}
+
+.image {
+    border-radius: 50px; 
+       }
+
+
+#Locations2{
+   line-height: 10px;
+   grid-template-columns: repeat(3, 1fr);
+  display: grid;
+  text-align: center;
+}
+
+#boton{
+background-color: rgb(39, 38, 38);
+border-color:rgb(39, 38, 38);
+color: rgb(72, 255, 0);
+}
+
+#boton:hover{
+    border-color:rgb(72, 255, 0);
+    color: rgb(39, 38, 38);
+    background-color: rgb(72, 255, 0);
+}
+
+#barra{
+background-color: rgb(22, 22, 22);
+border-radius: 2px;
+color: rgb(72, 255, 0);
+}
+
+#barra:hover{
+    border-color: rgb(72, 255, 0);
+}
+
+#p5{
+    text-align: center;
+    color: whitesmoke;
+}
+
+#c{color:rgb(22, 22, 22)}
+
+#frame1 {
+    color: whitesmoke;
+    height: 150px;
+    top: 404px;
+    left: 275px;
+    background-color: rgb(22, 22, 22);
+}
+
+#INFO {
+    color: rgb(53, 148, 16);
+}
+
+#title{
+    color: rgb(72, 255, 0); 
+}
+
+
+
